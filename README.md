@@ -30,11 +30,16 @@ Take a look at my responsive [Student Portfolio]()
 ## TASK 8: Writing Resource Article using Markdown
 
 ## TASK 9: Tinkercad
-Created a tinkercad account
+Created a TinkerCad account
 learnt how to use the circuits
 Constructed a [circuit](https://www.tinkercad.com/things/bBIgJU8yQNA-ultrasonic-lcd) that measures distance using an Ultrasonic sensor and Arduino and displays it on an LED
 
 ## TASK 11: LED Toggle Using ESP32
+Learned the working of an ![ESP32](![61b512d4-ac1d-4870-a8a8-02f6b9fac437](https://github.com/vvvvvvss/blog/assets/148562671/5980da7e-9bca-4d4e-a543-8d4d4c3d6c93))
+Created a standalone ![web server](![c613d0f3-c6fa-4ba4-a397-d74848d8b2f0](https://github.com/vvvvvvss/blog/assets/148562671/8894db95-b104-4a88-9c54-a8c3b5b27f33)) with an ESP32 that controls the LED connected with ESP32 GPIOs.
+Used the ![Arduino IDE](![5742a67a-5edb-4008-9eba-79e55b592b00](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df)) to code and upload the program to the ESP32.
+Learnt to configure the IDE to upload code to an ESP32.
+Used the webserver to control two LED lights on the ![bread board](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
 
 ## TASK 12: Soldering Prerequisites
 Learnt about soldering types of equipment present in the lab:
@@ -42,10 +47,10 @@ Learnt about soldering types of equipment present in the lab:
 Learnt to use them and perform basic soldering an LED and a resistor on a ![perf board](blob:https://web.whatsapp.com/c090ddb6-52b4-46bd-b530-8699c3719ad4)
 Connect the LED to a![battery](blob:https://web.whatsapp.com/241dfef1-152e-4a87-a628-c760559f5710)
 
-## TASK 13:
+## TASK 13: 555 astable multivibrator
 
-## TASK 14: Karnaugh Maps and Deriving the logic circuit
+## TASK 14: Karnaugh Maps and Deriving the Logic circuit
 
 ## TASK 15: Active Participation:
-Took part in a technical event:[KAGADA 2023](https://github.com/vvvvvvss/blog/files/13539420/Varsha.Shubhashri.M.KAGADA.2023.Participation.Certificate.pdf)
-Enrolled for a MOOC and complete the course:[Coursera python.pdf](https://github.com/vvvvvvss/blog/files/13539426/Coursera.python.pdf)
+Took part in a technical event: [KAGADA 2023](https://github.com/vvvvvvss/blog/files/13539420/Varsha.Shubhashri.M.KAGADA.2023.Participation.Certificate.pdf)
+Enrolled for a MOOC and completed the course: [Coursera python](https://github.com/vvvvvvss/blog/files/13539426/Coursera.python.pdf)
