@@ -1,6 +1,9 @@
 # MARVEL LEVEL 0 TASKS
 ## TASK 1: 3D PRINTING
-
+Learnt how to use a 3D printer
+Understood what is an STL file
+Learnt to slice it using Ultimaker Cura
+3D printer used: Creality CR10 Smart Pro
 ## TASK 2: API
 
 ## TASK 3: Working with GitHub
@@ -13,6 +16,11 @@ Next, I pulled a request to merge with the main branch
 Please take a look at my pull request here.
 
 ## TASK 4: Get familiar with the command line on Ubuntu and do the following subtasks
+Learnt few basic Ubuntu commands like `pwd`,`cd`,`ls`,`mkdir`
+Created a folder named test
+`cd` into that folder.
+Created a blank file without using any text editor.
+Created 2600 folders in this folder and named each folder from M0001 to M2600.
 
 ## Task 5: Kaggle contest
 Created an account in the Kaggle contest.
@@ -21,6 +29,11 @@ I went through the given data: train, test and gender submission.
 You can go through my submission [here](https://www.kaggle.com/code/varshashubhashrim/titanic?scriptVersionId=153407752).
 
 ## Task 6: Working with Pandas and Matplotlib
+Created a report on covid survivors, deaths and vaccinations
+Created a line graph representing covid survivors and death over time.
+Bar graph represnting covid vaccinations over time
+Scattered graph representing the Covid Survivors/Deaths vs Vaccinations
+![download](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3c79a241-eb97-4c5a-a143-c3f2654ddb28)
 
 ## TASK 7: Create a Portfolio Webpage
 I created my student portfolio using HTML and CSS in Visual Studio Code.
