@@ -29,10 +29,10 @@ I went through the given data: train, test and gender submission.
 You can go through my submission [here](https://www.kaggle.com/code/varshashubhashrim/titanic?scriptVersionId=153407752).
 
 ## Task 6: Working with Pandas and Matplotlib
-Created a report on covid survivors, deaths and vaccinations
-Created a line graph representing covid survivors and death over time.
-Bar graph represnting covid vaccinations over time
-Scattered graph representing the Covid Survivors/Deaths vs Vaccinations
+Created a report on covid survivors, deaths and vaccinations  
+Created a line graph representing covid survivors and death over time.  
+Bar graph represnting covid vaccinations over time  
+Scattered graph representing the Covid Survivors/Deaths vs Vaccinations  
 ![download](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3c79a241-eb97-4c5a-a143-c3f2654ddb28)
 
 ## TASK 7: Create a Portfolio Webpage
