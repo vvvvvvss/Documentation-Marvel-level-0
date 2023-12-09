@@ -52,7 +52,7 @@ Created a *line graph* representing COVID survivors and death over time.
 ## TASK 7: Create a Portfolio Webpage
 I created my student portfolio using HTML and CSS in Visual Studio Code.
 Take a look at my responsive [Student Portfolio](file:///C:/Users/Goutham/OneDrive/Desktop/varsha/marvel/dictionar%20api/portfolio.html).
-[Here]( ) is my Git repository.
+[Here](portfolio.html) is my Git repository.
 
 ## TASK 8: Writing Resource Article using Markdown
 I wrote an article about *Hyperloops* using *markdown* on GitHub.
