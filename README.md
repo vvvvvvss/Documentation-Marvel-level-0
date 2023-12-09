@@ -57,6 +57,8 @@ Refer to my resource article [here.](https://github.com/vvvvvvss/Hyperloops#)
 Created a TinkerCad account.
 learnt how to use the circuits.
 Constructed a [circuit](https://www.tinkercad.com/things/bBIgJU8yQNA-ultrasonic-lcd) that measures distance using an Ultrasonic sensor and Arduino and displays it on an LED.
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/733f7ca6-0b29-4346-840c-b1476f2d7ca3)
+
 
 ## TASK 11: LED Toggle Using ESP32
 Learned the working of an ![ESP32.](![61b512d4-ac1d-4870-a8a8-02f6b9fac437](https://github.com/vvvvvvss/blog/assets/148562671/5980da7e-9bca-4d4e-a543-8d4d4c3d6c93))
@@ -64,17 +66,22 @@ Created a standalone ![web server](![c613d0f3-c6fa-4ba4-a397-d74848d8b2f0](https
 Used the ![Arduino IDE](![5742a67a-5edb-4008-9eba-79e55b592b00](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df)) to code and upload the program to the ESP32.
 Learnt to configure the IDE to upload code to an ESP32.
 Used the webserver to control two LED lights on the ![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
+https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/6726ae6f-e555-41d9-a705-93321c5cf4ae
 
 ## TASK 12: Soldering Prerequisites
 Learnt about soldering types of equipment present in the lab:
 ![Soldering gun](blob:https://web.whatsapp.com/a01c39c0-5d97-4d16-b4bb-4e6a5885fa2c),![flux](blob:https://web.whatsapp.com/085d6f1f-ca2f-4238-9138-5e49a8b9e97c) and solder.
 Learnt to use them and perform basic soldering an LED and a resistor on a ![perf board.](blob:https://web.whatsapp.com/c090ddb6-52b4-46bd-b530-8699c3719ad4)
 Connect the LED to a![battery.](blob:https://web.whatsapp.com/241dfef1-152e-4a87-a628-c760559f5710)
+![0f39a4a3-4e83-4f5d-85a1-2d337a9b85c1](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/19816e8a-8b44-457b-b4f3-b1579fa8d597)
 
 ## TASK 13: 555 astable multivibrator
 Designed a 555 astable multivibrator with a duty cycle of 60%.
-Set up the circuit on a breadboard.
+Set up the circuiton a breadboard.
 By using the probes observed the output of the circuit on the DSO.
+![7503e504-522b-4e8b-9810-dbbcad3c5023](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/47ed3504-2277-47c2-99a2-e3afd64e1fd7)
+![d03ae165-1028-48c7-a474-51caade6f5c8](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/b5dabb6e-f5b6-4709-8dc2-6df2d739c6ae)
+
 
 ## TASK 14: Karnaugh Maps and Deriving the Logic circuit
 The system consists of two slide switches, a bulger alarm, a power supply, 2 resistors, a Quad AND gate and a Hex inverter.
