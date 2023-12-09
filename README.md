@@ -4,8 +4,15 @@ Learnt how to use a 3D printer
 Understood what is an STL file
 Learnt to slice it using Ultimaker Cura
 3D printer used: Creality CR10 Smart Pro
+Bed temperature: 65 C
+PLA printing temprature: 215 C
+Used the 3D printer to print F-35
+
 ## TASK 2: API
-[api](file:///C:/Users/Goutham/OneDrive/Desktop/varsha/marvel/dictionar%20api/index1.html)
+Learnt the working of an API and its applications
+Developed a Dictionary API: returns the meaning of the given word 
+You can see my API [here.](file:///C:/Users/Goutham/OneDrive/Desktop/varsha/marvel/dictionar%20api/index1.html)
+
 ## TASK 3: Working with GitHub
 Familiarized myself with GitHub.
 Cloned the given repository to my account using the git command `git-clone`
@@ -16,7 +23,7 @@ Next, I pulled a request to merge with the main branch
 Please take a look at my pull request here.
 
 ## TASK 4: Get familiar with the command line on Ubuntu and do the following subtasks
-Learnt few basic Ubuntu commands like `pwd`,`cd`,`ls`,`mkdir`
+Learnt few basic Ubuntu commands like `pwd`, `cd`, `ls` and `mkdir`
 Created a folder named test
 `cd` into that folder.
 Created a blank file without using any text editor.
@@ -29,10 +36,10 @@ I went through the given data: train, test and gender submission.
 You can go through my submission [here](https://www.kaggle.com/code/varshashubhashrim/titanic?scriptVersionId=153407752).
 
 ## Task 6: Working with Pandas and Matplotlib
-Created a report on covid survivors, deaths and vaccinations  
-Created a line graph representing covid survivors and death over time.  
-Bar graph represnting covid vaccinations over time  
-Scattered graph representing the Covid Survivors/Deaths vs Vaccinations  
+Created a report on COVID survivors, deaths and vaccinations  
+Created a *line graph* representing COVID survivors and death over time.  
+*Bar graph* representing COVID vaccinations over time  
+*Scattered graph* representing the Covid Survivors/Deaths vs Vaccinations  
 ![download](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3c79a241-eb97-4c5a-a143-c3f2654ddb28)
 
 ## TASK 7: Create a Portfolio Webpage
@@ -41,6 +48,8 @@ Take a look at my responsive [Student Portfolio]()
 [Here]( ) is my Git repository
 
 ## TASK 8: Writing Resource Article using Markdown
+I wrote an article about *Hyperloops* using *markdown* on GitHub
+Refer to my resource article [here.]()
 
 ## TASK 9: Tinkercad
 Created a TinkerCad account
