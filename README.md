@@ -7,6 +7,7 @@ Learnt to slice it using Ultimaker Cura.
 Bed temperature: 65 C.
 PLA printing temprature: 215 C.
 Used the 3D printer to print F-35.
+![ccb1aead-c41f-4b1c-8314-c2f290ee9f2f](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/b49340b1-e6fd-4dac-828d-7c1943239c98)
 
 ## TASK 2: API
 Learnt the working of an API and its applications.
@@ -23,17 +24,18 @@ Next, I pulled a request to merge with the main branch.
 Please take a look at my pull request here.
 
 ## TASK 4: Get familiar with the command line on Ubuntu and do the following subtasks
-Learnt few basic Ubuntu commands like `pwd`, `cd`, `ls` and `mkdir`.
+Learnt a few basic Ubuntu commands like `pwd`, `cd`, `ls` and `mkdir`.
 Created a folder named test.
 `cd` into that folder.
 Created a blank file without using any text editor.
-Created 2600 folders in this folder and named each folder from M0001 to M2600.
+Created 2600 folders in this folder and named each folder from ![M0001 to M2600](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/b2aa315b-450f-4390-9ad5-186d3d189c20)
 
 ## Task 5: Kaggle contest
 Created an account in the Kaggle contest.
 Participated in the Titanic regression model problem.
 I went through the given data: train, test and gender submission.
 You can go through my submission [here](https://www.kaggle.com/code/varshashubhashrim/titanic?scriptVersionId=153407752).
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/d5153f51-5085-4477-97fe-25a55316667c)
 
 ## Task 6: Working with Pandas and Matplotlib
 Created a report on COVID survivors, deaths and vaccinations  
