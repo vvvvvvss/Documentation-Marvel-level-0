@@ -5,7 +5,7 @@ Understood what is an STL file
 Learnt to slice it using Ultimaker Cura
 3D printer used: Creality CR10 Smart Pro
 ## TASK 2: API
-
+[api](file:///C:/Users/Goutham/OneDrive/Desktop/varsha/marvel/dictionar%20api/index1.html)
 ## TASK 3: Working with GitHub
 Familiarized myself with GitHub.
 Cloned the given repository to my account using the git command `git-clone`
@@ -63,6 +63,7 @@ Connect the LED to a![battery](blob:https://web.whatsapp.com/241dfef1-152e-4a87-
 ## TASK 13: 555 astable multivibrator
 
 ## TASK 14: Karnaugh Maps and Deriving the Logic circuit
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/763cd5f5-371f-49d9-989a-0a37f0cc51f6)
 
 ## TASK 15: Active Participation:
 Took part in a technical event: [KAGADA 2023](https://github.com/vvvvvvss/blog/files/13539420/Varsha.Shubhashri.M.KAGADA.2023.Participation.Certificate.pdf)
