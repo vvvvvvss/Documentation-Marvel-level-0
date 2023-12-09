@@ -13,6 +13,8 @@ Used the 3D printer to print F-35.
 Learnt the working of an API and its applications.
 Developed a Dictionary API: returns the meaning of the given word. 
 You can see my API [here.](file:///C:/Users/Goutham/OneDrive/Desktop/varsha/marvel/dictionar%20api/index1.html)
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/a77be477-2b28-49c3-a3c1-35c0d7ebdd83)
+
 
 ## TASK 3: Working with GitHub
 Familiarized myself with GitHub.
