@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Varsha Shubhashri M - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #181818;
+            color:#fff
+        }
+
+        header {
+            background-color: #5e0a54;
+            color: #fff;
+            text-align: center;
+            
+            padding: 130px 0;
+        }
+
+        section {
+            padding: 20px;
+            display: none;
+        }
+
+        h1,
+        h2 {
+            color: #fefbfb;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .skills,
+        .hobbies,
+        .contact {
+         {
+            text-align: center;
+        }
+
+        }
+
+        .nav {
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        .nav button {
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+            background-color: #5e0a54;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Varsha Shubhashri M</h1>
+        <p>Web Developer | Student</p>
+    </header>
+
+    <div class="nav">
+        <button onclick="showSection('introduction')">Introduction</button>
+        <button onclick="showSection('skills')">Skills</button>
+        <button onclick="showSection('education')">Education</button>
+        <button onclick="showSection('hobbies')">Hobbies</button>
+        <button onclick="showSection('contact')">Contact</button>
+    </div>
+
+    <section id="introduction" class="container">
+        <h2>Introduction</h2>
+        <p>This is my student Portfolio. Here is compilation of my skills, education, hobbies and more</p>
+    </section>
+
+    <section id="skills" class="container">
+        <h2>Skills</h2>
+        <div class="skills">
+            
+                <p>HTML</p>
+                <p>CSS</p>
+                <p>GitHub</p>
+                <p>Python</p>
+                <p>Java</p>
+                <p>C</p>
+        
+            
+        </div>
+    </section>
+
+    <section id="education" class="container">
+        <h2>Education</h2>
+        <p>University Of Visvesvaraya College Of Engineering - BTech Degree in Artificial Intelligence and Machine Learningn (Expected Graduation: May 2027)</p>
+        <p>Mount Carmel PU College - 1st and 2nd Pre University</p>
+        <p>Baldwin Girls' High School - untill 10th</p>
+    </section>
+
+    <section id="hobbies" class="container">
+        <h2>Hobbies</h2>
+        <div class="hobbies">
+    
+                <p>Reading</p>
+                <p>Listening to music</p>
+                <p>Gardening</p>
+                <!-- Add more hobbies as needed -->
+        </div>
+    </section>
+
+    <section id="contact" class="container contact">
+        <h2>Contact</h2>
+        <p>Email: 21varsha.shri.m@gmail.com</p>
+        <p>LinkedIn: Varsha Shubhashri.M</p>
+        <p>GitHub:github.com/vvvvvvss</p>
+    </section>
+
+    <script>
+        function showSection(sectionId) {
+            // Hide all sections
+            const sections = document.querySelectorAll('section');
+            sections.forEach(section => {
+                section.style.display = 'none';
+            });
+
+            // Show the selected section
+            const selectedSection = document.getElementById(sectionId);
+            selectedSection.style.display = 'block';
+        }
+    </script>
+
+</body>
+
+</html>
