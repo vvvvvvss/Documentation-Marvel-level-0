@@ -66,7 +66,7 @@ Created a standalone ![web server](![c613d0f3-c6fa-4ba4-a397-d74848d8b2f0](https
 Used the ![Arduino IDE](![5742a67a-5edb-4008-9eba-79e55b592b00](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df)) to code and upload the program to the ESP32.
 Learnt to configure the IDE to upload code to an ESP32.
 Used the webserver to control two LED lights on the ![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
-https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/6726ae6f-e555-41d9-a705-93321c5cf4ae
+![ESP32](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3cc8af65-a1c9-4e65-b889-b03258179837)
 
 ## TASK 12: Soldering Prerequisites
 Learnt about soldering types of equipment present in the lab:
