@@ -11,7 +11,8 @@ Used the 3D printer to print F-35.
 
 ## TASK 2: API
 Learnt the working of an API and its applications.
-Developed a Dictionary API: returns the meaning of the given word. 
+Developed a Dictionary API: returns the meaning of the given word.
+Used HTML, CSS and JavaScript.
 You can see my API [here.](file:///C:/Users/Goutham/OneDrive/Desktop/varsha/marvel/dictionar%20api/index1.html)
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/a77be477-2b28-49c3-a3c1-35c0d7ebdd83)
 
@@ -23,7 +24,9 @@ Corrected the error.
 Saved and committed using git command `git-commit`.
 Pushed into my repository using the git command `git-push`.
 Next, I pulled a request to merge with the main branch. 
-Please take a look at my pull request here.
+Please take a look at my pull request [here](github.com/vvvvvvss/git-task-3/blob/main/main.py).
+![image](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/ab963415-aad0-45b2-8f01-cec47a2b9f8d)
+
 
 ## TASK 4: Get familiar with the command line on Ubuntu and do the following subtasks
 Learnt a few basic Ubuntu commands like `pwd`, `cd`, `ls` and `mkdir`.
