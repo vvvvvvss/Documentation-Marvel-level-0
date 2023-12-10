@@ -97,7 +97,7 @@ When the light is on, the 2nd switch is turned off and vice versa.
 ### Case 1: 
 Key not pressed, door not open - no burglar alarm or turning on of LED
 ### Case 2:
-Key not pressed, door open - the burglar alarm rings with turning on of LED
+Key not pressed, door open - *_the burglar alarm rings with turning on of LED_*
 ### Case 3:
 Key pressed, door not open - no burglar alarm or turning on of LED
 ### Case 4:
