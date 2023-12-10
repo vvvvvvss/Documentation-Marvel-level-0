@@ -82,7 +82,7 @@ Connect the LED to a![battery.](blob:https://web.whatsapp.com/241dfef1-152e-4a87
 
 ## TASK 13: 555 astable multivibrator
 Designed a 555 astable multivibrator with a duty cycle of 60%.
-Carried out certain calculations, assumed R1 = 3kilo ohms and R2 = 6kilo ohms
+Carried out certain ![calculations](![c4009c6f-c933-4df6-8181-7b9ea05f0835](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/e0f15865-9232-489b-869c-85a06bdb7b05)), assumed R1 = 3kilo ohms and R2 = 6kilo ohms.
 Set up the circuit on a breadboard.
 By using the probes observed the output of the circuit on the DSO.
 ![7503e504-522b-4e8b-9810-dbbcad3c5023](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/47ed3504-2277-47c2-99a2-e3afd64e1fd7)
