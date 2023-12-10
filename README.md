@@ -91,10 +91,19 @@ By using the probes observed the output of the circuit on the DSO.
 
 ## TASK 14: Karnaugh Maps and Deriving the Logic circuit
 The system consists of two slide switches, a bulger alarm, a power supply, 2 resistors, a Quad AND gate and a Hex inverter.
-The 1st switch represents the door and the 2nd represents the light inside the house. 
+The 1st switch represents the door and the 2nd represents the key inside the house. 
 When the door is open, the 1st switch is turned on and vice versa. 
 When the light is on, the 2nd switch is turned off and vice versa.
-So, when the door is open and the light is on the buzzer buzzes.
+### Case 1: 
+Key not pressed, door not open - no burglar alarm or turning on of LED
+### Case 2:
+Key not pressed, door open - the burglar alarm rings with turning on of LED
+### Case 3:
+Key pressed, door not open - no burglar alarm or turning on of LED
+### Case 4:
+Key pressed, door open - no burglar alarm or turning on of LED
+
+
 ![image](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/763cd5f5-371f-49d9-989a-0a37f0cc51f6)
 
 ## TASK 15: Active Participation:
