@@ -66,23 +66,23 @@ Constructed a [circuit](https://www.tinkercad.com/things/bBIgJU8yQNA-ultrasonic-
 
 
 ## TASK 11: LED Toggle Using ESP32
-Learned the working of an ![ESP32.](https://github.com/vvvvvvss/blog/assets/148562671/5980da7e-9bca-4d4e-a543-8d4d4c3d6c93)
-Created a standalone ![web server](https://github.com/vvvvvvss/blog/assets/148562671/8894db95-b104-4a88-9c54-a8c3b5b27f33) with an ESP32 that controls the LED connected with ESP32 GPIOs.
-Used the ![Arduino IDE](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df) to code and upload the program to the ESP32.
+Learned the working of an ![ESP32](https://github.com/vvvvvvss/blog/assets/148562671/5980da7e-9bca-4d4e-a543-8d4d4c3d6c93)
+Created a standalone![web server](https://github.com/vvvvvvss/blog/assets/148562671/8894db95-b104-4a88-9c54-a8c3b5b27f33) with an ESP32 that controls the LED connected with ESP32 GPIOs.
+Used the![Arduino IDE](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df) to code and upload the program to the ESP32.
 Learnt to configure the IDE to upload code to an ESP32.
-Used the webserver to control two LED lights on the ![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
+Used the webserver to control two LED lights on the![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
 ![ESP32](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3cc8af65-a1c9-4e65-b889-b03258179837)
 
 ## TASK 12: Soldering Prerequisites
 Learnt about soldering types of equipment present in the lab:
-![Soldering gun](blob:https://web.whatsapp.com/a01c39c0-5d97-4d16-b4bb-4e6a5885fa2c),![flux](blob:https://web.whatsapp.com/085d6f1f-ca2f-4238-9138-5e49a8b9e97c) and solder.
-Learnt to use them and perform basic soldering an LED and a resistor on a ![perf board.](blob:https://web.whatsapp.com/c090ddb6-52b4-46bd-b530-8699c3719ad4)
-Connect the LED to a![battery.](blob:https://web.whatsapp.com/241dfef1-152e-4a87-a628-c760559f5710)
+Soldering gun, flux and solder.
+Learnt to use them and perform basic soldering an LED and a resistor on a perf board.
+Connect the LED to a battery.
 ![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/19816e8a-8b44-457b-b4f3-b1579fa8d597](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/SOLDERING.jpg))
 
 ## TASK 13: 555 astable multivibrator
 Designed a 555 astable multivibrator with a duty cycle of 60%.
-Carried out certain ![calculations](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/e0f15865-9232-489b-869c-85a06bdb7b05)), assumed R1 = 3kilo ohms and R2 = 6kilo ohms.
+Carried out certain calculations, assumed R1 = 3kilo ohms and R2 = 6kilo ohms.
 Set up the circuit on a breadboard.
 By using the probes observed the output of the circuit on the DSO.
 ![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/47ed3504-2277-47c2-99a2-e3afd64e1fd7](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/555.jpg))
