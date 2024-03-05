@@ -33,7 +33,7 @@ Learnt a few basic Ubuntu commands like `pwd`, `cd`, `ls` and `mkdir`.
 Created a folder named test.
 `cd` into that folder.
 Created a blank file without using any text editor.
-Created 2600 folders in this folder and named each folder from ![M0001 to M2600](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/b2aa315b-450f-4390-9ad5-186d3d189c20)
+Created 2600 folders in this folder and named each folder from M0001 to M2600 ![https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/UBANTU.mp4)](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/UBANTU.mp4)
 
 ## Task 5: Kaggle contest
 Created an account in the Kaggle contest.
@@ -71,7 +71,7 @@ Created a standalone![web server](https://github.com/vvvvvvss/blog/assets/148562
 Used the![Arduino IDE](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df) to code and upload the program to the ESP32.
 Learnt to configure the IDE to upload code to an ESP32.
 Used the webserver to control two LED lights on the![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
-![ESP32](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3cc8af65-a1c9-4e65-b889-b03258179837)
+![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3cc8af65-a1c9-4e65-b889-b03258179837](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/ESP32.mp4))
 
 ## TASK 12: Soldering Prerequisites
 Learnt about soldering types of equipment present in the lab:
