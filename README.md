@@ -7,7 +7,7 @@ Learnt to slice it using Ultimaker Cura.
 Bed temperature: 65 C.
 PLA printing temprature: 215 C.
 Used the 3D printer to print F-35.
-![ccb1aead-c41f-4b1c-8314-c2f290ee9f2f](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/b49340b1-e6fd-4dac-828d-7c1943239c98)
+![ccb1aead-c41f-4b1c-8314-c2f290ee9f2f](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/15b18c4c-7e01-46aa-8776-41d86b180586.jpg)
 
 ## TASK 2: API
 Learnt the working of an API and its applications.
