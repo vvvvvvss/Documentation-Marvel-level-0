@@ -66,11 +66,11 @@ Constructed a [circuit](https://www.tinkercad.com/things/bBIgJU8yQNA-ultrasonic-
 
 
 ## TASK 11: LED Toggle Using ESP32
-Learned the working of an ![ESP32](https://github.com/vvvvvvss/blog/assets/148562671/5980da7e-9bca-4d4e-a543-8d4d4c3d6c93)
-Created a standalone![web server](https://github.com/vvvvvvss/blog/assets/148562671/8894db95-b104-4a88-9c54-a8c3b5b27f33) with an ESP32 that controls the LED connected with ESP32 GPIOs.
-Used the![Arduino IDE](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df) to code and upload the program to the ESP32.
+Learned the working of an ESP32 ![ESP32](https://github.com/vvvvvvss/blog/assets/148562671/5980da7e-9bca-4d4e-a543-8d4d4c3d6c93)
+Created a standalone web server ![web server](https://github.com/vvvvvvss/blog/assets/148562671/8894db95-b104-4a88-9c54-a8c3b5b27f33) with an ESP32 that controls the LED connected with ESP32 GPIOs.
+Used the Arduino IDE ![Arduino IDE](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df) to code and upload the program to the ESP32.
 Learnt to configure the IDE to upload code to an ESP32.
-Used the webserver to control two LED lights on the![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
+Used the webserver to control two LED lights on the bread board.![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
 ![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3cc8af65-a1c9-4e65-b889-b03258179837](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/ESP32.mp4))
 
 ## TASK 12: Soldering Prerequisites
