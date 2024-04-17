@@ -7,15 +7,14 @@ Learnt to slice it using Ultimaker Cura.
 Bed temperature: 65 C.
 PLA printing temprature: 215 C.
 Used the 3D printer to print F-35.
-![ccb1aead-c41f-4b1c-8314-c2f290ee9f2f](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/15b18c4c-7e01-46aa-8776-41d86b180586.jpg)
+![15b18c4c-7e01-46aa-8776-41d86b180586](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/fe0814c4-588d-4018-af0e-fc01d11d28ea)
 
 ## TASK 2: API
 Learnt the working of an API and its applications.
 Developed a Dictionary API: returns the meaning of the given word.
 Used HTML, CSS and JavaScript.
 You can see my API [here.](file:///C:/Users/Goutham/OneDrive/Desktop/varsha/marvel/dictionar%20api/index1.html)
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/a77be477-2b28-49c3-a3c1-35c0d7ebdd83](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/API.png)
-
+![API](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/80ef64e4-de34-4b42-9aec-309aede95bd3)
 
 ## TASK 3: Working with GitHub
 Familiarized myself with GitHub.
@@ -25,7 +24,7 @@ Saved and committed using git command `git-commit`.
 Pushed into my repository using the git command `git-push`.
 Next, I pulled a request to merge with the main branch. 
 Please take a look at my pull request [here](github.com/vvvvvvss/git-task-3/blob/main/main.py).
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/ab963415-aad0-45b2-8f01-cec47a2b9f8d](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/GIT.png))
+![GIT](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/e0406c04-c9e5-4bc0-8e6e-7ad2593cf5dd)
 
 
 ## TASK 4: Get familiar with the command line on Ubuntu and do the following subtasks
@@ -33,21 +32,25 @@ Learnt a few basic Ubuntu commands like `pwd`, `cd`, `ls` and `mkdir`.
 Created a folder named test.
 `cd` into that folder.
 Created a blank file without using any text editor.
-Created 2600 folders in this folder and named each folder from M0001 to M2600 ![https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/UBANTU.mp4)](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/UBANTU.mp4)
+Created 2600 folders in this folder and named each folder from M0001 to M2600 
+![Ubantu](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/e9be53ea-73f1-4e4c-a683-b672bd9710b7)
+
 
 ## Task 5: Kaggle contest
 Created an account in the Kaggle contest.
 Participated in the Titanic regression model problem.
 I went through the given data: train, test and gender submission.
 You can go through my submission [here](https://www.kaggle.com/code/varshashubhashrim/titanic?scriptVersionId=153407752).
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/d5153f51-5085-4477-97fe-25a55316667c](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/KAGGLE.png)
+![KAGGLE](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/2eb69dd1-7e40-4a35-8743-c2c261a6166c)
+
 
 ## Task 6: Working with Pandas and Matplotlib
 Created a report on COVID survivors, deaths and vaccinations  
 Created a *line graph* representing COVID survivors and death over time.  
 *Bar graph* representing COVID vaccinations over time  
 *Scattered graph* representing the Covid Survivors/Deaths vs Vaccinations  
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3c79a241-eb97-4c5a-a143-c3f2654ddb28](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/PANDAS.png)
+![PANDAS](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/048565e9-118b-4f92-9578-b9b3865bbf75)
+
 
 ## TASK 7: Create a Portfolio Webpage
 I created my student portfolio using HTML and CSS in Visual Studio Code.
@@ -62,7 +65,12 @@ Refer to my resource article [here.](https://github.com/vvvvvvss/Hyperloops#)
 Created a TinkerCad account.
 learnt how to use the circuits.
 Constructed a [circuit](https://www.tinkercad.com/things/bBIgJU8yQNA-ultrasonic-lcd) that measures distance using an Ultrasonic sensor and Arduino and displays it on an LED.
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/733f7ca6-0b29-4346-840c-b1476f2d7ca3](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/TINKERCAD.png)
+![TINKERCAD](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/8b75a2d2-aa38-45d7-a5ac-07f83387d028)
+
+## TASK 10: Speed Control of DC Motor
+I first stimulated this on tinkercad. 
+I used the L298 motor driver and ardiuno board.
+![dc motor](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/9faef63f-b4f0-406c-999f-40d65efbe29c)
 
 
 ## TASK 11: LED Toggle Using ESP32
@@ -70,23 +78,22 @@ Learned the working of an ESP32 ![ESP32](https://github.com/vvvvvvss/blog/assets
 Created a standalone web server ![web server](https://github.com/vvvvvvss/blog/assets/148562671/8894db95-b104-4a88-9c54-a8c3b5b27f33) with an ESP32 that controls the LED connected with ESP32 GPIOs.
 Used the Arduino IDE ![Arduino IDE](https://github.com/vvvvvvss/blog/assets/148562671/c62017a9-007d-4e57-b1af-31e6099ae7df) to code and upload the program to the ESP32.
 Learnt to configure the IDE to upload code to an ESP32.
-Used the webserver to control two LED lights on the bread board.![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/3cc8af65-a1c9-4e65-b889-b03258179837](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/ESP32.mp4))
+Used the webserver to control two LED lights on the ![bread board.](https://github.com/vvvvvvss/blog/assets/148562671/7e65240b-1072-4e9b-9e0e-be8d2917503d)
 
 ## TASK 12: Soldering Prerequisites
 Learnt about soldering types of equipment present in the lab:
 Soldering gun, flux and solder.
 Learnt to use them and perform basic soldering an LED and a resistor on a perf board.
 Connect the LED to a battery.
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/19816e8a-8b44-457b-b4f3-b1579fa8d597](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/SOLDERING.jpg))
+![SOLDERING](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/4135b1c2-5bec-4531-816e-936391c3c000)
 
 ## TASK 13: 555 astable multivibrator
 Designed a 555 astable multivibrator with a duty cycle of 60%.
 Carried out certain calculations, assumed R1 = 3kilo ohms and R2 = 6kilo ohms.
 Set up the circuit on a breadboard.
 By using the probes observed the output of the circuit on the DSO.
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/47ed3504-2277-47c2-99a2-e3afd64e1fd7](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/555.jpg))
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/b5dabb6e-f5b6-4709-8dc2-6df2d739c6ae](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/555%20CIRCUIT.jpg))
+![555](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/b789028d-c948-458b-86b8-0f167b543e26)
+![555 CIRCUIT](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/a7a3c9b6-284d-4549-b2f8-2e29af4bab2c)
 
 
 ## TASK 14: Karnaugh Maps and Deriving the Logic circuit
@@ -102,9 +109,8 @@ Key not pressed, door open -  **_the burglar alarm rings with turning on of LED_
 Key pressed, door not open - no burglar alarm or turning on of LED
 ### Case 4:
 Key pressed, door open - no burglar alarm or turning on of LED
+![KMAPS](https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/54e17436-5945-45fd-ae93-218f7edadb99)
 
-
-![https://github.com/vvvvvvss/Documentation-Marvel-level-0/assets/148562671/763cd5f5-371f-49d9-989a-0a37f0cc51f6](https://github.com/vvvvvvss/Documentation-Marvel-level-0/blob/main/KMAPS.png))
 
 ## TASK 15: Active Participation:
 Took part in a technical event: [KAGADA 2023](https://github.com/vvvvvvss/blog/files/13539420/Varsha.Shubhashri.M.KAGADA.2023.Participation.Certificate.pdf)
